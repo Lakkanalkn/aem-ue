@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/wnkd-xwalk/:/",
+    "/content/wnkd-xwalk/configuration:/.helix/config.json,
+    "/content/wnkd-xwalk/metadata:/metadata.json,
   ],
   "includes": [
     "/content/aem-boilerplate/"
